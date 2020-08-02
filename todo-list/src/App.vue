@@ -3,7 +3,7 @@
     <div class="ui inverted vertical masthead center aligned segment">
       <div class="ui text container">
         <h1 class="ui inverted header"> Aplicação Todo List com Vue.js 3 @glaucia86</h1>
-        <h2 class="ui inverted header">Glaucia Lemos
+        <h2 class="ui inverted header">André Passos Braga
           <div class="sub header">Student @ Microsoft</div>
         </h2>
         <h3 class="ui inverted header">São José do Rio Preto-SP, Brasil - 2020</h3>
